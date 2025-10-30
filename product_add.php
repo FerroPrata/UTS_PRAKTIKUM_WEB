@@ -1,4 +1,5 @@
 <?php
+// .
 require_once 'config.php';
 
 // Cek apakah user sudah login

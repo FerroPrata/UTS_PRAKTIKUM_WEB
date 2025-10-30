@@ -1,4 +1,5 @@
 <?php
+// .
 echo "<h1>Test PHPMailer Installation</h1>";
 echo "<hr>";
 

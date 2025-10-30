@@ -1,4 +1,5 @@
 <?php
+// .
 require_once 'config.php';
 
 // Jika sudah login, redirect ke dashboard
