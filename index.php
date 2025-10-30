@@ -1,7 +1,7 @@
 <?php
 require_once 'config.php';
 
-// Redirect ke halaman login jika belum login.
+// Redirect ke halaman login jika belum login&&
 if (isLoggedIn()) {
     redirect('dashboard.php');
 } else {
